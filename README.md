@@ -1,1 +1,1 @@
-# kitapl-k-uygulamas-
+# kitaplık-uygulaması
